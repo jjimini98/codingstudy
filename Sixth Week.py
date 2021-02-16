@@ -78,7 +78,7 @@ for x in range(int(input())):
     for y  in result :
         if len(y) == 0 :
             continue
-        else:
+
 
 
 
